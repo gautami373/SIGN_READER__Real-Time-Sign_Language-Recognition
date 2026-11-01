@@ -44,7 +44,8 @@ SignReader/
 ├── screenshots/
 
 │   ├── webcam_detection.png
-     <img width="925" height="462" alt="Screenshot 2026-10-31 220500" src="https://github.com/user-attachments/assets/557de64b-5c72-42a5-892e-4f20d3b7b891" />
+     <img width="925" height="462" alt="Screenshot 2026-10-31 220500" src="https://github.com/user-attachments/assets/1b8153e6-b0dd-4d8a-8cdc-2e4c658bd766" />
+
 
 
 │   └── sentence_output.png
@@ -249,13 +250,15 @@ These files allow the recognition application to load the trained model without 
 - Sentence construction combines recognized words in sequence; it does not independently interpret sign-language grammar.
 
 
-<img width="287" height="452" alt="Screenshot 2026-11-01 114439" src="https://github.com/user-attachments/assets/0051433b-d553-4720-bb90-4bbed397d4fc" />
+![Uploading Screenshot 2026-10-31 220500.png…]()
 
 
-<img width="835" height="392" alt="Screenshot 2026-11-01 114248" src="https://github.com/user-attachments/assets/aa217d03-87b0-4ca4-b9ad-5a2ca7ee2337" />
+
+<img width="835" height="392" alt="Screenshot 2026-11-01 114248" src="https://github.com/user-attachments/assets/52408106-92cb-4c0a-ab6c-b8b357dda260" />
 
 
-<img width="925" height="462" alt="Screenshot 2026-10-31 220500" src="https://github.com/user-attachments/assets/da992eb6-4a01-407c-98df-85c8da30ccfa" />
+<img width="287" height="452" alt="Screenshot 2026-11-01 114439" src="https://github.com/user-attachments/assets/77c2e372-7f71-4355-8c2b-7f002ee09b1d" />
+
 
 ## Results and Limitations
 
