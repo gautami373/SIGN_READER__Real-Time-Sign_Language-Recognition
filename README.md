@@ -230,7 +230,7 @@ The trained model predicts a word category from the detected hand landmarks. The
 ### Supported Vocabulary
 
 The current two-hand model supports **19 word categories**.
-
+but it detect few words write.
 Its recognition capabilities are limited to the categories represented in the trained model.
 
 ### Model Files
@@ -307,11 +307,6 @@ These files allow the recognition application to load the trained model without 
 - Git and GitHub for version control and project hosting
 
 
-## License
-
-This project is intended for educational and portfolio purposes.
-
-A formal license has not yet been selected. Until a license is added, others should not assume they have permission to reuse, modify, or redistribute the project's code.
 
 ## Acknowledgements
 
@@ -321,3 +316,6 @@ A formal license has not yet been selected. Until a license is added, others sho
 - **scikit-learn:** For machine-learning model development and prediction.
 - **Python:** For providing the programming environment used to develop SignReader.
 
+## purpose
+To learn,introduce python libraries
+and undersatand problem and remove barrier between def/mute people with others.
