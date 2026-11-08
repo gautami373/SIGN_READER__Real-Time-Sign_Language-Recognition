@@ -318,4 +318,4 @@ These files allow the recognition application to load the trained model without 
 
 ## purpose
 To learn,introduce python libraries
-and undersatand problem and remove barrier between def/mute people with others.
+and undersatand problem and remove communication barrier between def/mute people with others.
